@@ -1,0 +1,7 @@
+{"PEER_ADDRESS":"grpc://localhost:7051",
+"ORDERER_ADDRESS":"grpc://localhost:7050",
+"CHANNEL_NAME":"mychannel",
+"MSPID":"Org1MSP",
+"userOrg":"org1",
+"CHAINCODE_INFO":[{"CHAINCODE_ID":"marbles02","CHAINCODE_PATH":"github.com/color0e/chaincode/marbles02_v2","CHAINCODE_TYPE":"golang","METADATA_PATH":"test","CHAINCODE_VERSION":"2.0"}]
+}
